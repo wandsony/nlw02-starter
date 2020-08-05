@@ -7,10 +7,10 @@ document.querySelector("#add-time")
 // Perform an action
 function cloneField() {
     // Duplicate the fields. What field?
-    const newFiledsContainer = document.querySelector('.schedule-item').cloneNode(true) // boolean: true ou false
+    const newFiledContainer = document.querySelector('.schedule-item').cloneNode(true) // boolean: true ou false
 
     // Catch the fields. What fields?
-    const fileds = newFiledsContainer.querySelectorAll('input')
+    const fileds = newFiledContainer.querySelectorAll('input')
 
     // For each field, clear
     fileds.forEach(function(field) {
@@ -18,5 +18,5 @@ function cloneField() {
             field.value = ""
         })
         // Place on page: where?
-    document.querySelector('#schedule-items').appendChild()
+    document.querySelector('#schedule-items').appendChild(newFiledContainer)
 }
