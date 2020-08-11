@@ -30,10 +30,10 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 
 ## <p id='functionalities'>Funcionalidades</p>
 
-1. Calendario das aulas.
-2. O aluno pode entrar em contato com um professor específico.
-3. Listas de professores disponíveis.
-4. Campo de inscrição, para professores.
+- Calendario das aulas.
+- O aluno pode entrar em contato com um professor específico.
+- Listas de professores disponíveis.
+- Campo de inscrição, para professores.
 
 ---
 
@@ -56,6 +56,17 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 
 </div>
 
+
+## <p id='contribuir'>Contribuir</p>
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+Esse projeto foi desenvolvido com os ensinamentos da rocketseat
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+Feito por  [Wandson Gomes](https://www.linkedin.com/in/wandson-gomes-a759ba51/) 💻
 
 
 
