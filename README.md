@@ -39,14 +39,10 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 
 ## <p id='tecnologies'>Tecnologias</p>
 
-<a href='https://pt-br.reactjs.org/'>React</a>
-<br/>
-<a href='https://www.typescriptlang.org/'>TypeScript</a>
-<br/>
-<a href='https://nodejs.org/en/download/'>Node.js</a>
-<br/>
-<a href='https://reactnative.dev/'>React Native</a>
-<br/>
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 ---
 
